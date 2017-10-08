@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculatorWPF", "BMICalculatorWPF\BMICalculatorWPF.csproj", "{326A614A-FB94-46E0-AC91-A86DF1E68C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculatorWPFTests", "BMICalculatorWPFTests\BMICalculatorWPFTests.csproj", "{EB3BBFBC-231C-429D-8DD5-ED1C461CFBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326A614A-FB94-46E0-AC91-A86DF1E68C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326A614A-FB94-46E0-AC91-A86DF1E68C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326A614A-FB94-46E0-AC91-A86DF1E68C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326A614A-FB94-46E0-AC91-A86DF1E68C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3BBFBC-231C-429D-8DD5-ED1C461CFBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3BBFBC-231C-429D-8DD5-ED1C461CFBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3BBFBC-231C-429D-8DD5-ED1C461CFBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3BBFBC-231C-429D-8DD5-ED1C461CFBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB3C662-5788-4E98-AF5E-ACDD5F965381}
+	EndGlobalSection
+EndGlobal
